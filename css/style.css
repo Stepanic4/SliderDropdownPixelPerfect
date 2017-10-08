@@ -746,6 +746,7 @@ footer {
     display: flex;
     width: 100%;
     margin-left: 20px;
+    margin-top: 20px;
   }
   .slise {
     margin-top: 15px;
@@ -860,7 +861,7 @@ footer {
   .oppenned span:nth-child(3) { transform: rotate(-45deg) translateY(-5px) translateX(4px); }
   .oppenned li { 
     margin-right: 100px;
-   }
+  }
   /*////////////////////////////////////end burger////////////////*/
   .home {
     margin-left: 70px;
@@ -889,7 +890,7 @@ footer {
     display: block;
     height: 40px;
     background: url(../img/sprite.png) no-repeat;
-    margin: 0 auto 15px;
+    margin: 0 0 0 0;
     background-position: 0px;
   }
   .home ul li:nth-child(2):before {
